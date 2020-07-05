@@ -15,3 +15,6 @@ int main()
 //                  then 
 // to run the created .exe file after it has been created 1)Ctrl + Alt + F5
 //                                                         2)Terminal -> Run Task -> Run C file
+// abs() is present in stdlib.h
+// double fabs(double)  is present in math.h
+// double fmax (double, double) , float fmaxf (float, float) , long double fmaxl (long double, long double) is present in math.h
